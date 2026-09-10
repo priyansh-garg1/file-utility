@@ -1,4 +1,4 @@
-package com.example.filetool;
+package com.motabhai.filetool;
 
 import java.io.BufferedReader;
 import java.io.IOException;
