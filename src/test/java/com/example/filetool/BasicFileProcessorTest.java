@@ -1,4 +1,4 @@
-package com.example.filetool;
+package com.motabhai.filetool;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;

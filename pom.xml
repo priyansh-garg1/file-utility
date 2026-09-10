@@ -28,9 +28,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/your-user/your-repo.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/your-user/your-repo.git</developerConnection>
-        <url>https://github.com/your-user/your-repo</url>
+        <connection>scm:git:git://github.com/priyansh-garg1/file-utility</connection>
+        <developerConnection>scm:git:ssh://git@github.com/priyansh-garg1/file-utility</developerConnection>
+        <url>https://github.com/priyansh-garg1/file-utility</url>
     </scm>
 
     <properties>
